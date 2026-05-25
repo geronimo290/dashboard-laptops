@@ -4,7 +4,7 @@ Análisis exploratorio del mercado de laptops con foco en pricing, marcas, confi
 
 ## 📊 Vista previa
 
-![Dashboard Laptops](screenshot/dashboard_laptops.png)
+![Dashboard Laptops](screenshot/dasbord_laptops.png)
 
 ## 🎯 Preguntas de negocio respondidas
 
